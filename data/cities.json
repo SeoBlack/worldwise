@@ -1,0 +1,28 @@
+{
+  "cities": [
+    {
+      "id": "eaa8",
+      "cityName": "Utsjoki",
+      "country": "Finland",
+      "emoji": "🇫🇮",
+      "date": "2024-03-23T13:27:39.051Z",
+      "notes": "",
+      "position": {
+        "lat": "69.73333439033593",
+        "lng": "26.806640625000004"
+      }
+    },
+    {
+      "id": "8046",
+      "cityName": "Longyearbyen",
+      "country": "Norway",
+      "emoji": "🇳🇴",
+      "date": "2024-03-23T13:27:42.907Z",
+      "notes": "",
+      "position": {
+        "lat": "74.3785127963314",
+        "lng": "19.335937500000004"
+      }
+    }
+  ]
+}
